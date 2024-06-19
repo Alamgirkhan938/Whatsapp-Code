@@ -14,7 +14,7 @@ class _WhatsappState extends State<Whatsapp> {
       length: 4,
       child: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.pink,
+          backgroundColor: Colors.amber,
           title: Text('Alamgir Khan',style: TextStyle(fontWeight: FontWeight.bold),),
           actions: [
             PopupMenuButton(
