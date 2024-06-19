@@ -14,7 +14,7 @@ class _WhatsappState extends State<Whatsapp> {
       length: 4,
       child: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.greenAccent,
+          backgroundColor: Colors.pink,
           title: Text('WhatsApp',style: TextStyle(fontWeight: FontWeight.bold),),
           actions: [
             PopupMenuButton(
