@@ -1,6 +1,7 @@
 dart_tool
 build
 alamgir
+lib
 asif
 .idea
 .flutter-plugins
