@@ -14,10 +14,12 @@ class _ChatingListState extends State<ChatingList> {
     return Scaffold(
       appBar: AppBar(title: Text('chating list'),),
 
+
       body: ListView.builder(itemCount: 5,
           itemBuilder: (context,index){
         return ListTile(title: Icon(Icons.add),);
       }),
+
     );
   }
 }
