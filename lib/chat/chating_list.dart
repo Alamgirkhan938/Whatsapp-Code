@@ -13,6 +13,7 @@ class _ChatingListState extends State<ChatingList> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('chating list'),),
+      body: Container(),
     );
   }
 }
