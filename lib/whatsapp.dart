@@ -18,9 +18,6 @@ class _WhatsappState extends State<Whatsapp> {
           title: Text('Alamgir Khan',style: TextStyle(fontWeight: FontWeight.bold),),
           actions: [
             PopupMenuButton(
-
-
-
               iconColor: Colors.white,
                 icon: Icon(Icons.ac_unit),
                 color: Colors.blue,
